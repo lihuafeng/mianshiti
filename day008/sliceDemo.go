@@ -12,4 +12,8 @@ func main()  {
 	fmt.Println(p)
 	fmt.Println(m)
 	fmt.Println(p == m)
+
+	//array(slice) 初始化时也是可以指定索引的。该题有一个索引 3，根据数组的特点，必然有小于 3 的所有也存在，上题中，v 的值是：[0, 2, 0, 4]。
+	v := [...]int{1: 2, 3: 4}
+	fmt.Println(len(v))
 }

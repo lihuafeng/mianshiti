@@ -7,7 +7,7 @@ func main() {
 	a := [5]int{1, 2, 3, 4, 5}
 	t1 := a[3:4]
 	fmt.Println(t1)
-	t := a[3:4:4]
+	t := a[3:4:5]
 	fmt.Println(t)
 	fmt.Println(t[0])
 }
