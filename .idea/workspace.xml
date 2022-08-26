@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="470209bb-86a2-4672-aac8-0640a228aaa9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day003/contextDeom.go" beforeDir="false" afterPath="$PROJECT_DIR$/day003/contextDeom.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day007/intDeomo.go" beforeDir="false" afterPath="$PROJECT_DIR$/day007/intDeomo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day008/sliceDemo.go" beforeDir="false" afterPath="$PROJECT_DIR$/day008/sliceDemo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day133/arrayDemo.go" beforeDir="false" afterPath="$PROJECT_DIR$/day133/arrayDemo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day137/floatDemo.go" beforeDir="false" afterPath="$PROJECT_DIR$/day137/floatDemo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day131/chanDemo.go" beforeDir="false" afterPath="$PROJECT_DIR$/day131/chanDemo.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,40 +13,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day003/contextDeom.go">
+        <entry file="file://$PROJECT_DIR$/day120/params.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day119/integerDemo.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day118/funcDemo.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day117/printfDemo.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="13" column="216" selection-start-line="13" selection-start-column="216" selection-end-line="13" selection-end-column="216" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day007/intDeomo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day006/mapDemo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day008/sliceDemo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -59,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day131/chanDemo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="229">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding>
                 <element signature="e#14#39#0" expanded="true" />
               </folding>
@@ -69,28 +61,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day132/sliceDemo.go">
+        <entry file="file://$PROJECT_DIR$/day114/mapDemo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day133/arrayDemo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day120/params.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="102" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+            <state relative-caret-position="359">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -111,6 +85,7 @@
       <find>stop</find>
       <find>a | b</find>
       <find>context.Background</find>
+      <find>chanDemo</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../gogogo" />
@@ -138,7 +113,6 @@
         <option value="$PROJECT_DIR$/day139/chanDemo.go" />
         <option value="$PROJECT_DIR$/day136/lockDemo.go" />
         <option value="$PROJECT_DIR$/day135/floatDemo.go" />
-        <option value="$PROJECT_DIR$/day131/chanDemo.go" />
         <option value="$PROJECT_DIR$/day132/sliceDemo.go" />
         <option value="$PROJECT_DIR$/day137/floatDemo.go" />
         <option value="$PROJECT_DIR$/day003/contextDeom.go" />
@@ -146,6 +120,11 @@
         <option value="$PROJECT_DIR$/day008/sliceDemo.go" />
         <option value="$PROJECT_DIR$/day133/arrayDemo.go" />
         <option value="$PROJECT_DIR$/day120/params.go" />
+        <option value="$PROJECT_DIR$/day119/integerDemo.go" />
+        <option value="$PROJECT_DIR$/day118/funcDemo.go" />
+        <option value="$PROJECT_DIR$/day131/chanDemo.go" />
+        <option value="$PROJECT_DIR$/day114/mapDemo.go" />
+        <option value="$PROJECT_DIR$/day117/printfDemo.go" />
       </list>
     </option>
   </component>
@@ -167,6 +146,16 @@
             <path>
               <item name="goDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="goDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="day114" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="day117" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +241,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30585682" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.52819955" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -547,16 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day131/chanDemo.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day132/sliceDemo.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -571,10 +550,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../gogogo/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="211" column="11" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day120/params.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="102" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+        <state relative-caret-position="230">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day118/funcDemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day114/mapDemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day119/integerDemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day131/chanDemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day117/printfDemo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
