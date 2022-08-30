@@ -12,6 +12,8 @@ func main() {
 
 func rotate(nums []int, k int) {
 	k = k % len(nums)
+	fmt.Println(k)
 	nums = append(nums[len(nums)-k:], nums[0:len(nums)-k]...)
+	fmt.Println(nums)
 	//copy(nums, append(nums[len(nums)-k:], nums[0:len(nums)-k]...))
 }
