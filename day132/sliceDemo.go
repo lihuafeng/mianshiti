@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	a := make([]int, 0, 5)
+	//a := make([]int, 0, 5)
+	var a []int
 	fmt.Println(a)
 	addElem(a, 5)
 	fmt.Println(a)
