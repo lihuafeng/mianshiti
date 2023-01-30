@@ -1,5 +1,11 @@
 package main
 
+import "fmt"
+
+type st struct {
+	name string
+}
+
 func main() {
 	/**
 	通过指针变量 p 访问其成员变量 name，有哪几种方式？（多选）
@@ -14,4 +20,7 @@ func main() {
 
 	参考解析：& 取址运算符，* 指针解引用。
 	 */
+	p  := &st{name:"Li"}
+	fmt.Print(p.name)
+	fmt.Print((*p).name)
 }
