@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+力扣算法题
+ */
 func main() {
 	var nums = []int{2,5,11,5}
 	var target = 10

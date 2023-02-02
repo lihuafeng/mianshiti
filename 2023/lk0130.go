@@ -4,10 +4,12 @@ import (
 	"fmt"
 )
 /**
+力扣算法题
 给定一个字符串 s ，请你找出其中不含有重复字符的 最长子串 的长度。
  */
 func main() {
-	s := "pwwwkew"
+	//s := "pwwwkew"
+	s := "pwwdevdfkl"
 	//s := "abcabcbb"
 	l := lengthOfLongestSubstring(s)
 	fmt.Println(l)
@@ -31,6 +33,7 @@ func lengthOfLongestSubstring(s string) int {
 			left++
 			window[l]--
 		}
+		fmt.Printf("left=%v, right=%v, length=%v \n", left, right,length)
 		// 满足不重复子串条件，计算/保存最长不重复子串
 		if right-left > length {
 			length = right - left
