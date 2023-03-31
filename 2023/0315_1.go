@@ -29,6 +29,10 @@ func main() {
 c := Work{3}
 var a A = c
 var b B = c
+
+//s := a.(Work)
+//s.ShowA()
+//s.ShowB()
 fmt.Println(a.ShowB())//23
 fmt.Println(b.ShowA())//13
 }
