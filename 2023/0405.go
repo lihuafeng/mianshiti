@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
   var x *struct {
     s [][32]byte
@@ -7,6 +9,13 @@ func main() {
 
   println(len(x.s[99]))
   println(len(x.s[0]))
+
+  var y *struct{
+    s *[7]int
+  }
+  for i,_:= range y.s{
+    fmt.Println(i)
+  }
 }
 /**
 01 解析题目
