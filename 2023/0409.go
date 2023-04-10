@@ -12,6 +12,12 @@ func (stu *Student) Show() {
 
 }
 
+type Teacher struct {}
+
+func (Tea Teacher) Show()  {
+
+}
+
 func main() {
 
   var s *Student
@@ -26,6 +32,14 @@ func main() {
   } else {
     fmt.Println("p is not nil")
   }
+  tea := Teacher{}
+  var p1 People = tea
+  if p1 == nil {
+    fmt.Println("p1 is nil")
+  } else {
+    fmt.Println("p1 is not nil")
+  }
+
   /**
   答案解析：
   参考答案及解析：s is nil 和 p is not nil。
